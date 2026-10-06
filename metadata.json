@@ -1,0 +1,6 @@
+{
+  "name": "FPV Drone Sim",
+  "description": "3D First-Person View FPV drone and UAV flight simulator with realistic quadcopter 6-DOF physics, Betaflight rates, Acro/Angle modes, and 3D environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
